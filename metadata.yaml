@@ -1,0 +1,62 @@
+_repo: Machado-de-Assis-Son-Oeuvre-Litteraire_57360
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: France, Anatole
+    aliases:
+    - Thibault, Jacques-Anatole-Francois
+    - Thibault, Jacques-Anatole-François
+    - Thibault, Anatole
+    birthdate: 1844
+    deathdate: 1924
+    gutenberg_agent_id: '755'
+    url: http://www.gutenberg.org/2009/agents/755
+    wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+creator:
+  authors:
+  - agent_name: Machado de Assis
+    aliases:
+    - Assis, Joaquim Maria Machado de
+    - De Assis, Machado
+    - Assis, Machado de
+    birthdate: 1839
+    deathdate: 1908
+    gutenberg_agent_id: '9685'
+    url: http://www.gutenberg.org/2009/agents/9685
+    wikipedia: http://pt.wikipedia.org/wiki/Machado_de_Assis
+  - agent_name: Lima, Oliveira
+    aliases:
+    - Lima, Manuel de Oliveira
+    - Lima, M. de Oliveira (Manuel de Oliveira)
+    - Lima, Manoel de Oliveira
+    birthdate: 1867
+    deathdate: 1928
+    gutenberg_agent_id: '33884'
+    url: http://www.gutenberg.org/2009/agents/33884
+  - agent_name: Orban, Victor
+    birthdate: 1868
+    deathdate: 1946
+    gutenberg_agent_id: '49342'
+    url: http://www.gutenberg.org/2009/agents/49342
+description: ''
+gutenberg_bookshelf:
+- FR Nouveautés
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2018-06-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57360'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Machado de Assis, 1839-1908 -- Criticism and interpretation'
+- GITenberg
+tableOfContents: Au lecteur -- Le génie latin / Anatole France -- Machado de Assis
+  et son oeuvre littéraire / M. de Oliveira Lima -- Machado de Assis romancier, conteur
+  et poète / Victor Orban -- L'infirmier, conte; Cercle vicieux, sonnet; Enfant et
+  jeune fille / Machado de Assis, traduction de Victor Orban.
+title: Machado de Assis, Son Oeuvre Littéraire
+url: http://www.gutenberg.org/ebooks/57360
