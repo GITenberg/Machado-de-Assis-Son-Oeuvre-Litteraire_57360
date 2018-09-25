@@ -1,5 +1,5 @@
 _repo: Machado-de-Assis-Son-Oeuvre-Litteraire_57360
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: France, Anatole
@@ -12,6 +12,9 @@ contributor:
     gutenberg_agent_id: '755'
     url: http://www.gutenberg.org/2009/agents/755
     wikipedia: http://en.wikipedia.org/wiki/Anatole_France
+covers:
+- cover_type: archival
+  image_path: 57360-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Machado de Assis
@@ -39,6 +42,8 @@ creator:
     gutenberg_agent_id: '49342'
     url: http://www.gutenberg.org/2009/agents/49342
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57360#Machado-de-Assis-Son-Oeuvre-Litteraire
 gutenberg_bookshelf:
 - FR Nouveautés
 - FR Biographie, Mémoires, Journal intime, Correspondance
